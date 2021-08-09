@@ -7,6 +7,7 @@ int main()
 	if (x < 10)
 	{
 		printf("less than 10");
+		printf("abcd");
 	}
 	return 0;
 }
